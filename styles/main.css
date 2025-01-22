@@ -27,3 +27,20 @@ ul, ol {
     text-align: justify;
     list-style-position: inside;
 }
+
+li {
+    margin: 10px 0;
+}
+
+.ing {
+    font-size: 105%;
+}
+
+#homepage-links {
+    text-align: center;
+}
+
+#homepage-links li {
+    margin: 40px 0;
+    font-size: larger;
+}
