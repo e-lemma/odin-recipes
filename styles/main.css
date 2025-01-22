@@ -44,3 +44,9 @@ li {
     margin: 40px 0;
     font-size: larger;
 }
+
+.return-home-link {
+    font-size: large;
+    display: block;
+    text-align: center;
+}
