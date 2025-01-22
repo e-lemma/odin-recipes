@@ -36,10 +36,13 @@ body p {
     font-size: larger;
 }
 
-h1 span {
+
+h1 span,
+#stylish-tilde {
     color: rgb(204, 204, 194);
     display: block;
     font-size: larger;
+    text-align: center;
 }
 
 .ing {
