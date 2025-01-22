@@ -3,6 +3,7 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #9eb5ca;
+    box-sizing: border-box;
 }
 
 h1 {
@@ -43,6 +44,11 @@ h1 span,
     display: block;
     font-size: larger;
     text-align: center;
+    margin-bottom: 50px;
+}
+
+#stylish-tilde{
+    margin: 20px;
 }
 
 .ing {
@@ -51,7 +57,7 @@ h1 span,
 
 #homepage-links {
     text-align: center;
-    padding: 40px;
+    padding: 5px 40px;
 }
 
 #homepage-links li {
