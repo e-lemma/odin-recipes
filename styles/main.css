@@ -7,7 +7,6 @@
 
 h1 {
     color: rgb(158, 158, 149);
-    background-color: #1f2d3a;
     text-align: center;
 }
 
@@ -43,13 +42,19 @@ body p {
 
 #homepage-links {
     text-align: center;
+    padding: 40px;
 }
 
 #homepage-links li {
     width: 200px;
     font-size: larger;
     display: block;
-    margin: 50px auto;
+    margin: 40px auto;
+}
+
+#homepage-links a {
+    color: rgb(158, 158, 149);
+    text-decoration: underline dotted;
 }
 
 .return-home-link {
