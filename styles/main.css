@@ -43,6 +43,10 @@ h1 span,
   text-align: center;
 }
 
+h1 span {
+  margin-bottom: 50px;
+}
+
 #stylish-tilde {
   margin: 20px;
 }
@@ -53,14 +57,14 @@ h1 span,
 
 #homepage-links {
   text-align: center;
-  padding: 5px 40px;
+  padding: 5px 20px;
 }
 
 #homepage-links li {
   width: 200px;
   font-size: larger;
   display: block;
-  margin: 40px auto;
+  margin: 20px auto;
 }
 
 #homepage-links a {
