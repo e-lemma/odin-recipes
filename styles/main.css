@@ -46,8 +46,10 @@ body p {
 }
 
 #homepage-links li {
-    margin: 40px 0;
+    width: 200px;
     font-size: larger;
+    display: block;
+    margin: 50px auto;
 }
 
 .return-home-link {
