@@ -36,6 +36,12 @@ body p {
     font-size: larger;
 }
 
+h1 span {
+    color: rgb(204, 204, 194);
+    display: block;
+    font-size: larger;
+}
+
 .ing {
     font-size: 105%;
 }
