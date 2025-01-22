@@ -32,6 +32,11 @@ li {
     margin: 10px 0;
 }
 
+body p {
+    text-align: center;
+    font-size: larger;
+}
+
 .ing {
     font-size: 105%;
 }
